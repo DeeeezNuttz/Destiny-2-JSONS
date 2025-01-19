@@ -1,3 +1,5 @@
+title: Steve_ExoticClass_Item_Wishlist
+
 dimwishlist:item=2809120022&perks=3751917998,1476923955
 dimwishlist:item=2809120022&perks=3751917995,3751917994
 dimwishlist:item=2809120022&perks=1476923952,3751917993
