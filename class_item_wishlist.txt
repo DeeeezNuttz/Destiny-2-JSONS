@@ -1,4 +1,4 @@
-title: Dave_ExoticClass_Item_Wishlist
+title:Dave_ExoticClass_Item_Wishlist
 
 dimwishlist:item=2809120022&perks=1476923953,1476923955
 dimwishlist:item=2809120022&perks=1476923953,3751917994
